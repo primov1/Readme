@@ -82,7 +82,7 @@
   <circle class="node ln6" cx="170" cy="150" r="2"/>
   <circle class="node ln7" cx="30" cy="170" r="2"/>
 
-<text x="430" y="95" text-anchor="middle" font-family="sans-serif" font-size="46" font-weight="200" fill="white" letter-spacing="1">SHEROZBEK Coder</text>
+<text x="430" y="95" text-anchor="middle" font-family="sans-serif" font-size="46" font-weight="200" fill="white" letter-spacing="1">  SHEROZBEK  </text>
 <text x="430" y="130" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="200" fill="white" letter-spacing="2">FULL STACK Developer</text>
   <g transform="translate(640,0)">
     <line class="edge" x1="60" y1="30" x2="150" y2="50"/>
