@@ -2,7 +2,7 @@
   <img src="./banner.svg" width="100%" />
 </p>
 
-<h3 align="center">Hi there! My name is Sardor. I'm a Web Developer from Uzbekistan. 👋</h3>
+<h3 align="center">Hi there! My name is Sherozbek I'm a Full stacke Developer from Uzbekistan. 👋</h3>
 
 <p align="center">
   I build clean and scalable web applications and backend systems.<br>
@@ -11,6 +11,6 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/WebSardor" target="_blank"><img src="https://img.shields.io/badge/Telegram-2ca5e0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://www.instagram.com/allamurotov.27/" target="_blank"><img src="https://img.shields.io/badge/Instagram-c13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://t.me/primov1_off" target="_blank"><img src="https://img.shields.io/badge/Telegram-2ca5e0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://www.instagram.com/primov1_0/" target="_blank"><img src="https://img.shields.io/badge/Instagram-c13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
